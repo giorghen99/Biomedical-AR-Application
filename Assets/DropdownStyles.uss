@@ -1,0 +1,14 @@
+/* Rende il testo della lista a tendina nero */
+.unity-base-popup-field__text {
+    color: black;
+}
+
+/* Cambia il colore di sfondo della selezione nella lista a tendina in rosso */
+.unity-base-popup-field__list-item:selected {
+    background-color: rgb(255, 0, 0); /* Rosso */
+}
+
+/* Rende il testo dell'elemento selezionato della lista bianco */
+.unity-base-popup-field__list-item:selected .unity-base-popup-field__text {
+    color: white;
+}

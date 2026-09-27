@@ -1,0 +1,43 @@
+﻿# Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+.utmp/
+
+# Unity generated files
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Visual Studio
+.vs/
+.vscode/
+.idea/
+.vsconfig
+
+# Builds
+/[Bb]uild/
+/[Bb]uilds/
+Tirocinio_BurstDebugInformation_DoNotShip/
+
+# APK build
+*.apk
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local Vuforia package
+/Packages/com.ptc.vuforia.engine-11.2.4.tgz
