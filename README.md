@@ -654,7 +654,7 @@ This project was developed as a \*\*university internship project\*\* with the g
 
 
 
-The datasets included in the project are used for demonstration and application-development purposes.
+The datasets included in this project are synthetic and were created exclusively for demonstration and application-development purposes. They do not represent real patients or individuals, although the values were designed to be internally consistent and realistic for the application's use case.
 
 
 
@@ -1302,7 +1302,7 @@ Il progetto è stato sviluppato nell'ambito di un \*\*tirocinio universitario\*\
 
 
 
-I dataset inclusi nel progetto vengono utilizzati a scopo dimostrativo e per lo sviluppo dell'applicazione.
+I dataset inclusi nel progetto sono sintetici e sono stati creati esclusivamente a scopo dimostrativo e per lo sviluppo dell'applicazione. Non rappresentano pazienti o persone reali, sebbene i valori siano stati costruiti in modo da risultare coerenti e realistici per il caso d'uso dell'applicazione.
 
 
 
